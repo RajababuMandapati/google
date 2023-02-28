@@ -1,0 +1,11 @@
+/* Write your CSS here */
+
+.list-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.arrow-image {
+  height: 25px;
+  width: 25px;
+}

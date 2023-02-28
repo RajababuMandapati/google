@@ -1,0 +1,31 @@
+/* Write your CSS here */
+
+.app-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-container {
+  width: 400px;
+  height: 150px;
+}
+
+.search-container {
+  background-color: transparent;
+  box-shadow: inset;
+  display: flex;
+  margin-top: 15px;
+}
+
+.search-image {
+  height: 25px;
+  width: 25px;
+}
+
+.search-input {
+  border-width: 0px;
+}
